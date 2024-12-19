@@ -1,0 +1,2 @@
+gray+black = linear-gradient(90deg, #000000BF 0%, #dfb3b670 100%);
+
